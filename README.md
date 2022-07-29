@@ -1,6 +1,6 @@
 # Session2-Cypress for beginners
 
-To install this on your pc:
+To install the dependencies on your pc:
 
 ```node.js
 npm i
